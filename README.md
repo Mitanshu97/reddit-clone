@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Awesome Project Build with TypeScript, React, Next.js and TypeORM
 
 Steps to run this project:
 
